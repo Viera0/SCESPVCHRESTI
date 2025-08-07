@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background: #f7f7f7;
+}
+
+#qrcode {
+  margin: 20px auto;
+}
+
+#barcode {
+  margin-top: 20px;
+}
